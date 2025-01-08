@@ -19,6 +19,13 @@ A simple and efficient tool to automate sending WhatsApp messages. Built using *
 - Twilio account (sign up at [Twilio](https://www.twilio.com/)) 🌐
 
 ### Installation 📥:
+-Download the main.py script on your pc
+-Open it via any code editor (such as VSCODE,Pycharm,etc.)
+
+-Type your account sid and authentication token from Twilio website.
+
+-Save changes and run the program
+
 
 1. Clone this repository:
    ```bash
