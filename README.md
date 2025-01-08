@@ -11,7 +11,7 @@ A simple and efficient tool to automate sending WhatsApp messages. Built using *
 ## Technologies Used 🛠️:
 - **Python** 🐍
 - **Twilio API** for WhatsApp messaging 📲
--**Datetime** Module ⏲️
+- **Datetime** Module ⏲️
 ## Setup Instructions ⚡:
 
 ### Prerequisites 🔑:
